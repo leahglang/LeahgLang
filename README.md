@@ -1,5 +1,6 @@
 ##  Hi 👋, I'm Leah
- 💻 Development is my challenge, I love to learn and develop, try and succeed in creative and diverse ways.
+💻 Development is my challenge, I love to learn and develop, try and succeed in creative and diverse ways.
+When I'm not coding, you can find me lost in music – playing, listening, or just enjoying the rhythm of life. 🎶
  Here are some of the languages and tools I work with:
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -32,7 +33,9 @@
 ![Agile](https://img.shields.io/badge/Agile-%23009EC4.svg?style=for-the-badge&logo=target&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%234CAF50.svg?style=for-the-badge)
 
-
+### 📬 **Contact Me**  
+Feel free to reach out for collaboration, questions, or just to chat!  
+- Email: leahgl845@gmail.com(mailto:your.email@example.com) 
 
 <!--
 **leahglang/LeahgLang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
