@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Feel free to reach out for collaboration, questions, or just to chat!  
-📧 Contact me here: Leahgl845@gmail.com
+📧  **Contact me here**: Leahgl845@gmail.com
