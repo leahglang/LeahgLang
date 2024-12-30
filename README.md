@@ -1,7 +1,7 @@
 ##  Hi 👋, I'm Leah
 💻 Development is my challenge, I love to learn and develop, try and succeed in creative and diverse ways.
 When I'm not coding, you can find me lost in music – playing, listening, or just enjoying the rhythm of life. 🎶
- Here are some of the languages and tools I work with:
+Here are some of the languages and tools I work with:
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
